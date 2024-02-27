@@ -19,20 +19,24 @@ Import cv2 and capture the viedo using cv2.ViedoCapture(0).
 ### Step 2:
 <br>
 Write the capture image using cv2.imwrite("Kanishka.jpg",frame).
+
 ### Step 3:
 <br>
 Resize the image using cv2.resize(frame,(0,0),fx=0.5,fy=0.5).
+
 ### Step 4:
 <br>
 Display the image until the loop gets over.
+
 ### Step 5:
 <br>
 Rotate the image using cv2.rotate(smaller_frame,cv2.ROTATE_180).
+
 ## Program:
 ``` Python
 ### Developed By: Kanishka V S
 ### Register No: 212222230061
-
+```
 ## i) Write the frame as JPG file
 ```
 import cv2
@@ -53,7 +57,7 @@ import cv2
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()
-    cv2.imshow('212222230058_Beulah',frame)
+    cv2.imshow('212222230061_Kanishka',frame)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
@@ -119,8 +123,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-</br>
+
 ![image](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/7333074d-1210-4838-bf91-e67c73553fb2)
 
 
