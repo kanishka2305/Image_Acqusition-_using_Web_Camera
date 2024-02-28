@@ -124,17 +124,20 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![image](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/7333074d-1210-4838-bf91-e67c73553fb2)
+![op1 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/04b3a196-7e37-4690-9b5a-830fb6c953ce)
+
 
 
 ### ii) Display the video
 </br>
 </br>
+![op 2 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/a23fba8c-fc54-4697-8222-9263f905517d)
 
 
 ### iii) Display the video by resizing the window
 </br>
 </br>
+![op3 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/b814bee6-1b61-4ec9-9b15-5765e29c946e)
 
 
 
@@ -142,6 +145,7 @@ cv2.destroyAllWindows()
 </br>
 </br>
 
+![op4 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/56867cc9-1da2-4438-81aa-8b7db7cd3a1c)
 
 
 
