@@ -131,12 +131,14 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 </br>
 </br>
+
 ![op 2 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/a23fba8c-fc54-4697-8222-9263f905517d)
 
 
 ### iii) Display the video by resizing the window
 </br>
 </br>
+
 ![op3 dip](https://github.com/kanishka2305/Image_Acqusition-_using_Web_Camera/assets/113497357/b814bee6-1b61-4ec9-9b15-5765e29c946e)
 
 
