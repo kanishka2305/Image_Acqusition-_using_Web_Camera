@@ -1,4 +1,4 @@
-# Image_Acqusition-_using_Web_Camera
+# EXP.2 Image_Acqusition-_using_Web_Camera
 ## Aim
  
 Aim:
